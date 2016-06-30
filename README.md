@@ -1,9 +1,5 @@
-# Soho
 
-## Screenshots
-![screenshot](http://i.imgur.com/JnfjeGx.png)
-![screenshot](http://i.imgur.com/FmuGCfR.png)
-
+![screenshot](http://i.imgur.com/fV6jtOV.png)
 
 ## 
 
