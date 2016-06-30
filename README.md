@@ -1,5 +1,5 @@
 
-![screenshot](http://i.imgur.com/fV6jtOV.png)
+![screenshot](http://i.imgur.com/RWggYXP.png)
 
 ## 
 
