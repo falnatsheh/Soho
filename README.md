@@ -11,7 +11,7 @@ Soho color scheme adds simple color touches to your code without being overwhelm
     - [Source Code Pro Meduim (used by Bracket IDE)](https://www.google.com/fonts/specimen/Source+Code+Pro)
   - Size: 12
   - Line spacing: 1.2
-- [Material Theme Jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) for the UI (as shown in the left side of the preview above)
+- [Material Theme Jetbrains](https://github.com/ChrisRM/material-theme-jetbrains) for the UI (as shown on the left side of the preview above)
 
 ## Installation
 
