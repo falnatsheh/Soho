@@ -1,6 +1,8 @@
 
 ![screenshot](http://i.imgur.com/p4pooI9.png)
 
+Soho color scheme adds simple color touches to your code without being overwhelming.   
+
 ##  Recommended settings: 
 
 - Font: 
@@ -42,4 +44,4 @@
 3. Go to `Preferences | Editor | Colors & Fonts` and select one of the new
 color themes.
 
-*(The above instructions originally from [here](https://github.com/jkaving/intellij-colors-solarized#option-2-manual-installation).)*
+*(The above instructions are originally from [here](https://github.com/jkaving/intellij-colors-solarized#option-2-manual-installation).)*
