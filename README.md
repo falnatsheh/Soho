@@ -1,22 +1,18 @@
 
 ![screenshot](http://i.imgur.com/p4pooI9.png)
 
-## 
+##  Recommended settings: 
 
-## Installation: 
- 
-Font: 
+- Font: 
   - SFMono Medium. 
-  - Other alternatives :
+  - Or :
     - [Fira Mono](https://www.google.com/fonts/specimen/Fira+Mono).
     - [Source Code Pro Meduim (used by Bracket IDE)](https://www.google.com/fonts/specimen/Source+Code+Pro)
 
-Size: 12
+- Size: 12
+- Line spacing: 1.2
 
-Line spacing: 1.2
-
-Installation
-------------  
+## Installation
 
 1.  Copy `Soho.icls` to your IntelliJ IDEA preferences
     color directory. The directory varies, depending on which JetBrains IDE you are using.
@@ -46,4 +42,4 @@ Installation
 3. Go to `Preferences | Editor | Colors & Fonts` and select one of the new
 color themes.
 
-*(The above instruction are from [here](https://github.com/jkaving/intellij-colors-solarized#option-2-manual-installation).)
+*(The above instructions originally from [here](https://github.com/jkaving/intellij-colors-solarized#option-2-manual-installation).)*
